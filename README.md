@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lavanya More</h1>
+<h1 align="center">Hi , I'm Lavanya More</h1>
 <h3 align="center">B.Tech IT Student | Java Developer | Cloud Enthusiast | AI Learner</h3>
 
 <p align="center">
