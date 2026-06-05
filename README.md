@@ -9,12 +9,12 @@
 
 ##  About Me
 
-- 🎓 B.Tech Information Technology Student
-- 💻 Learning Java, DSA, SQL, DBMS
-- ☁️ Exploring AWS and Cloud Computing
-- 🤖 Interested in AI and MLOps
-- 🌱 Currently learning Spring Boot
-- 🎯 Goal: Software Developer → Cloud Engineer → AI Engineer
+- B.Tech Information Technology Student
+- Learning Java, DSA, SQL, DBMS
+- Exploring AWS and Cloud Computing
+- Interested in AI and MLOps
+- Currently learning Spring Boot
+- Goal: Software Developer → Cloud Engineer → AI Engineer
 
 ---
 
@@ -26,7 +26,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=lavanyamore-1&show_icons=true&theme=tokyonight)
 
