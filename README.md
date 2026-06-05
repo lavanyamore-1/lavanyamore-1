@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🎓 B.Tech Information Technology Student
 - 💻 Learning Java, DSA, SQL, DBMS
@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ Languages and Tools
+##  Languages and Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,vscode,linux,docker,aws,spring" />
@@ -36,24 +36,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=lavanyamore-1&theme=tokyonight)
-
----
-
-## 🚀 Projects
-
-### 📚 Study Flow
-Productivity and study management application.
-
-### 🔐 QKD (Quantum Key Distribution)
-Implementation of secure communication concepts.
-
-### 💻 Java DSA Solutions
-LeetCode solutions implemented in Java.
-
----
 
 ## 🌐 Connect With Me
 
